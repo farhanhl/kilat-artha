@@ -37,9 +37,9 @@ Expert Advisor MQL4 multi-pair untuk konsep Order Block + Trend Filter + Grid/Ma
 
 Bagian ini menjelaskan alur keputusan EA secara deterministik, dari level global sampai level order.
 
-## Penjelasan Algoritma (Bahasa Trading, Non-Coding)
+## Penjelasan Algoritma
 
-Bagian ini dibuat khusus untuk reviewer ahli trading yang tidak ingin membaca detail teknis pemrograman.
+Bagian ini dibuat khusus untuk reviewer.
 
 ### Tujuan Sistem
 EA ini mencari Order Block yang valid, menunggu retest, lalu entry hanya jika konteks struktur harga dan risiko akun mendukung.
